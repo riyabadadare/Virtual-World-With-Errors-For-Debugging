@@ -5,7 +5,7 @@ public final class Animation implements Action {
     private final Schedulable entity;
     private final int repeatCount;
 
-    public Animation(Schedulable entity, int repeatCount) {
+    public Animation(Executable entity, int repeatCount) {
         this.entity = entity;
         this.repeatCount = repeatCount;
     }
