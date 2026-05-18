@@ -1,1 +1,1 @@
-CSC 203 Final Project
+Virtual World codebase with errors to be debugged by study participants.
